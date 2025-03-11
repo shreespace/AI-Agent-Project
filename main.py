@@ -1,4 +1,4 @@
-from src.birdeye import fetch_token_data
+from birdeye import fetch_token_data
 
 if __name__ == "__main__":
     token_address = "SOL"  # Replace with required token

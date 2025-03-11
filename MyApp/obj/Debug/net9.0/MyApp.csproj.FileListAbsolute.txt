@@ -1,0 +1,15 @@
+/Users/kritikashree/Desktop/birdeye copy/MyApp/bin/Debug/net9.0/MyApp
+/Users/kritikashree/Desktop/birdeye copy/MyApp/bin/Debug/net9.0/MyApp.deps.json
+/Users/kritikashree/Desktop/birdeye copy/MyApp/bin/Debug/net9.0/MyApp.runtimeconfig.json
+/Users/kritikashree/Desktop/birdeye copy/MyApp/bin/Debug/net9.0/MyApp.dll
+/Users/kritikashree/Desktop/birdeye copy/MyApp/bin/Debug/net9.0/MyApp.pdb
+/Users/kritikashree/Desktop/birdeye copy/MyApp/obj/Debug/net9.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kritikashree/Desktop/birdeye copy/MyApp/obj/Debug/net9.0/MyApp.AssemblyInfoInputs.cache
+/Users/kritikashree/Desktop/birdeye copy/MyApp/obj/Debug/net9.0/MyApp.AssemblyInfo.cs
+/Users/kritikashree/Desktop/birdeye copy/MyApp/obj/Debug/net9.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/kritikashree/Desktop/birdeye copy/MyApp/obj/Debug/net9.0/MyApp.sourcelink.json
+/Users/kritikashree/Desktop/birdeye copy/MyApp/obj/Debug/net9.0/MyApp.dll
+/Users/kritikashree/Desktop/birdeye copy/MyApp/obj/Debug/net9.0/refint/MyApp.dll
+/Users/kritikashree/Desktop/birdeye copy/MyApp/obj/Debug/net9.0/MyApp.pdb
+/Users/kritikashree/Desktop/birdeye copy/MyApp/obj/Debug/net9.0/MyApp.genruntimeconfig.cache
+/Users/kritikashree/Desktop/birdeye copy/MyApp/obj/Debug/net9.0/ref/MyApp.dll

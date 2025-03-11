@@ -1,5 +1,5 @@
 import requests
-from src.config import BIRDEYE_API_KEY, BIRDEYE_BASE_URL
+from config import BIRDEYE_API_KEY, BIRDEYE_BASE_URL
 
 def fetch_token_data(token_address):
     url = f"{BIRDEYE_BASE_URL}/public/token/{token_address}/price"
